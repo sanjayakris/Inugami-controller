@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2wkX8tAOqodBC2fSAMGQiowrbiGkp87zdm3hfNEchSNdj55ib2NJj8dQqfaEK08koi85JclKhFu04b0m1OleEA==",
+  "dgSpecHash": "DHzjHc4DJhg6c7K5F0xlgsGtA85FLBcIiYoSe5n/UcypRH39DGaM/WQWnfbrB+vTR4QQGqq2fdCjscwpiRuSig==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\inugami-controller\\inugamiConsolee\\inugamiConsolee.csproj",
+  "projectFilePath": "E:\\GitHub\\inugami-controller\\inugamiConsolee\\Inugami.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

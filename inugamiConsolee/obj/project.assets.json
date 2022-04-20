@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\inugami-controller\\inugamiConsolee\\inugamiConsolee.csproj",
-      "projectName": "inugamiConsolee",
-      "projectPath": "E:\\GitHub\\inugami-controller\\inugamiConsolee\\inugamiConsolee.csproj",
+      "projectUniqueName": "E:\\GitHub\\inugami-controller\\inugamiConsolee\\Inugami.csproj",
+      "projectName": "Inugami",
+      "projectPath": "E:\\GitHub\\inugami-controller\\inugamiConsolee\\Inugami.csproj",
       "packagesPath": "C:\\Users\\sanja\\.nuget\\packages\\",
       "outputPath": "E:\\GitHub\\inugami-controller\\inugamiConsolee\\obj\\",
       "projectStyle": "PackageReference",
