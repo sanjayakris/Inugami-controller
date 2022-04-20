@@ -1,0 +1,15 @@
+D:\csharpproj\inugamiConsolee\inugamiConsolee\bin\Debug\net6.0\inugamiConsolee.exe
+D:\csharpproj\inugamiConsolee\inugamiConsolee\bin\Debug\net6.0\inugamiConsolee.deps.json
+D:\csharpproj\inugamiConsolee\inugamiConsolee\bin\Debug\net6.0\inugamiConsolee.runtimeconfig.json
+D:\csharpproj\inugamiConsolee\inugamiConsolee\bin\Debug\net6.0\inugamiConsolee.dll
+D:\csharpproj\inugamiConsolee\inugamiConsolee\bin\Debug\net6.0\inugamiConsolee.pdb
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.csproj.AssemblyReference.cache
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.AssemblyInfoInputs.cache
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.AssemblyInfo.cs
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.csproj.CoreCompileInputs.cache
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.dll
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\refint\inugamiConsolee.dll
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.pdb
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\inugamiConsolee.genruntimeconfig.cache
+D:\csharpproj\inugamiConsolee\inugamiConsolee\obj\Debug\net6.0\ref\inugamiConsolee.dll
