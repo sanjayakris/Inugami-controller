@@ -1,0 +1,15 @@
+E:\GitHub\inugami-controller\inugamiConsolee\bin\Debug\net6.0\Inugami.exe
+E:\GitHub\inugami-controller\inugamiConsolee\bin\Debug\net6.0\Inugami.deps.json
+E:\GitHub\inugami-controller\inugamiConsolee\bin\Debug\net6.0\Inugami.runtimeconfig.json
+E:\GitHub\inugami-controller\inugamiConsolee\bin\Debug\net6.0\Inugami.dll
+E:\GitHub\inugami-controller\inugamiConsolee\bin\Debug\net6.0\Inugami.pdb
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.csproj.AssemblyReference.cache
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.AssemblyInfoInputs.cache
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.AssemblyInfo.cs
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.csproj.CoreCompileInputs.cache
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.dll
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\refint\Inugami.dll
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.pdb
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\Inugami.genruntimeconfig.cache
+E:\GitHub\inugami-controller\inugamiConsolee\obj\Debug\net6.0\ref\Inugami.dll

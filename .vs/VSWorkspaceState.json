@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\inugamiConsolee"
   ],
-  "SelectedNode": "\\inugamiController.sln",
+  "SelectedNode": "\\inugamiConsolee\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
